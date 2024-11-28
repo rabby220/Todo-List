@@ -1,11 +1,6 @@
 import 'package:get/get.dart';
+import 'package:hive/hive.dart';
 
 class HomeController extends GetxController {
-  //TODO: Implement HomeController
-
-  final count = 0.obs;
-
-
-
-  void increment() => count.value++;
+  final Box box = Hive.box('peopleBox');
 }
