@@ -31,8 +31,8 @@ Option to divide the total tip and bill amount among multiple people.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/rabby220/Tip-Calculator.git
-   cd Tip-Calculator
+   git clone https://github.com/rabby220/Todo-List.git
+   cd Todo-List
 
 2. **Install Dependencies::**
    ```bash
