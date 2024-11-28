@@ -46,11 +46,11 @@ Option to divide the total tip and bill amount among multiple people.
 
 ## 🛠️ Tech Stack
 
-##### Flutter (Dart): <br>
+##### Flutter (Dart): 
 - Cross-platform framework for building mobile apps.
-##### State Management: <br>
+##### State Management: 
 - GetX for managing state and handling UI reactivity.
-##### Local Storage: <br>
+##### Local Storage: 
 - Hive for local data storage and task management.
 
 
@@ -58,7 +58,6 @@ Option to divide the total tip and bill amount among multiple people.
 ---
 
 ## 📸 Screenshots
-assets/screenshot/add-task.png
 
 <p align="center">
   <img src="assets/screenshot/add-task.png" alt="Add Task Screen" width="30%" style="margin: 10px;">
@@ -78,17 +77,17 @@ assets/screenshot/add-task.png
 
 ## 💡 How It Works
 
-1. Create Task: <br>
-   Enter the task details and hit the Add Task button. The current date and time are automatically assigned to each task.
+1. ##### Create Task: 
+  - Enter the task details and hit the Add Task button. The current date and time are automatically assigned to each task.
 
-2. Edit Task: <br>
-   To edit a task, click the task you want to modify, update the task details, and save.
+2. ##### Edit Task: 
+   - To edit a task, click the task you want to modify, update the task details, and save.
 
-3. Delete Task:<br>
-   Swipe or click the delete button next to any task to remove it.
+3. ##### Delete Task: 
+   - Swipe or click the delete button next to any task to remove it.
 
-4. Task Display: <br>
-   The task list is displayed on the home screen, showing task details along with the assigned date and time.
+4. ##### Task Display: 
+  - The task list is displayed on the home screen, showing task details along with the assigned date and time.
 
 
 ---
